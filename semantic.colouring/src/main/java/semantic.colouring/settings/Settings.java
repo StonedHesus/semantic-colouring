@@ -1,4 +1,4 @@
-package settings;
+package semantic.colouring.settings;
 
 import java.awt.*;
 
